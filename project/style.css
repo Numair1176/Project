@@ -1,0 +1,13 @@
+.login-box{
+    border: 2px solid black;
+    margin-top: 70px;
+    padding-top: 40px;
+    background-color: antiquewhite;
+    opacity: 0.5;
+}
+.full-body{
+    background-image: url(pics/pexels-pixabay-159866.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
